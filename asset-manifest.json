@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-fake-react-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/my-fake-react-app/static/js/main.7ab3c223.chunk.js",
+    "main.js.map": "/my-fake-react-app/static/js/main.7ab3c223.chunk.js.map",
+    "runtime-main.js": "/my-fake-react-app/static/js/runtime-main.fd84fc22.js",
+    "runtime-main.js.map": "/my-fake-react-app/static/js/runtime-main.fd84fc22.js.map",
+    "static/js/2.933de957.chunk.js": "/my-fake-react-app/static/js/2.933de957.chunk.js",
+    "static/js/2.933de957.chunk.js.map": "/my-fake-react-app/static/js/2.933de957.chunk.js.map",
+    "index.html": "/my-fake-react-app/index.html",
+    "precache-manifest.197b962e5bee98a2303f4816ceedbec2.js": "/my-fake-react-app/precache-manifest.197b962e5bee98a2303f4816ceedbec2.js",
+    "service-worker.js": "/my-fake-react-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/my-fake-react-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.933de957.chunk.js.LICENSE.txt": "/my-fake-react-app/static/js/2.933de957.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/my-fake-react-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd84fc22.js",
+    "static/js/2.933de957.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.7ab3c223.chunk.js"
+  ]
+}
